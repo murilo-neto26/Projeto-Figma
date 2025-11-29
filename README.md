@@ -4,8 +4,8 @@
 
 # 👥 Equipe
 ## O trabalho foi desenvolvido por:
--[Murilo Silva](https://github.com/murilo-neto26)
--[Maria Jardiele Silva](https://github.com/jardiele22)
+- [Murilo Silva](https://github.com/murilo-neto26)
+- [Maria Jardiele Silva](https://github.com/jardiele22)
 
 # 🎨 Design vs. Implementação
 ### Abaixo estão as capturas de tela do design original (Figma) e da implementação final (HTML/CSS):
