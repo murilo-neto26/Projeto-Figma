@@ -10,11 +10,17 @@
 # 🎨 Design vs. Implementação
 ### Abaixo estão as capturas de tela do design original (Figma) e da implementação final (HTML/CSS):
 
+Página Inicial - Figma
 ![Página Inicial - Figma](img/captura4.jpeg)
+Página Inicial - HTML/CSS
 ![Página Inicial - HTML/CSS](img/captura1.jpeg)
+Detalhes - Figma
 ![Detalhes - Figma](img/captura5.jpeg)
+Detalhes - HTML/CSS
 ![Detalhes Inicial - HTML/CSS](img/captura2.jpeg)
+Contato - Figma
 ![Contato Inicial - Figma](img/captura6.jpeg)
+Contato - HTML/CSS
 ![Contato Inicial - HTML/CSS](img/captura3.jpeg)
 
 # 📊 Tabela Comparativa
