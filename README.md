@@ -25,7 +25,7 @@ Contato - HTML/CSS
 
 ## A seguir as principais semelhanças e diferenças observadas entre o design proposto e a implementação realizada:
 
-O layout e o fluxo de informações foram mantidos.
+O layout e o fluxo de informações foram mantidos.  
 Tipografia: Ajustes finos no tamanho ou peso da fonte para melhor leitura e visualização.
 Paleta de Cores: As cores primárias e secundárias do design foram replicadas.
 Espaçamento (Margin/Padding): Pequenas variações no espaçamento para adequação ao comportamento cross-browser.
