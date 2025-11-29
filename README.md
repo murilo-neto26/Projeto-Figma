@@ -23,10 +23,11 @@ Contato - Figma
 Contato - HTML/CSS
 ![Contato Inicial - HTML/CSS](img/captura3.jpeg)
 
-# 📊 Tabela Comparativa
-### A tabela a seguir apresenta as principais semelhanças e diferenças observadas entre o design proposto e a implementação realizada:
+## A seguir as principais semelhanças e diferenças observadas entre o design proposto e a implementação realizada:
 
-O layout e o fluxo de informações foram mantidos.Tipografia: Ajustes finos no tamanho ou peso da fonte para melhor leitura.
+O layout e o fluxo de informações foram mantidos.
+Tipografia: Ajustes finos no tamanho ou peso da fonte para melhor leitura e visualização.
 Paleta de Cores: As cores primárias e secundárias do design foram replicadas.
 Espaçamento (Margin/Padding): Pequenas variações no espaçamento para adequação ao comportamento cross-browser.
 Elementos Principais: Componentes como header e footer seguiram o padrão do Figma.
+Alguns detalhes como os símbolos de carrinho de compras e informações não conseguimos colocar no projeto, assim como a imagem o bloco de resumo e a última imagem da página contato.
