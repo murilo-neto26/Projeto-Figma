@@ -11,6 +11,11 @@
 ### Abaixo estão as capturas de tela do design original (Figma) e da implementação final (HTML/CSS):
 
 ![Página Inicial - Figma](img/captura4.jpeg)
+![Página Inicial - HTML/CSS](img/captura1.jpeg)
+![Detalhes - Figma](img/captura5.jpeg)
+![Detalhes Inicial - HTML/CSS](img/captura2.jpeg)
+![Contato Inicial - Figma](img/captura6.jpeg)
+![Contato Inicial - HTML/CSS](img/captura3.jpeg)
 
 # 📊 Tabela Comparativa
 ### A tabela a seguir apresenta as principais semelhanças e diferenças observadas entre o design proposto e a implementação realizada:
