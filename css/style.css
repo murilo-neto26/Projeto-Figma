@@ -210,3 +210,21 @@ form {
 .formu {
     font-size: 30px;
 }
+
+.icones {
+    position: absolute;
+    right: 30px;   
+    top: 190px;     
+    display: flex;
+    gap: 18px;
+}
+
+.icones a {
+    background: none;     
+    padding: 0;            
+}
+
+
+.icon {
+    width: 40px;
+}
