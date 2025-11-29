@@ -10,6 +10,8 @@
 # 🎨 Design vs. Implementação
 ### Abaixo estão as capturas de tela do design original (Figma) e da implementação final (HTML/CSS):
 
+![Página Inicial - Figma](img/captura1)
+
 # 📊 Tabela Comparativa
 ### A tabela a seguir apresenta as principais semelhanças e diferenças observadas entre o design proposto e a implementação realizada:
 
