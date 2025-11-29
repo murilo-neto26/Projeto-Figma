@@ -1,4 +1,4 @@
-#🚀 Protótipo Implementado: Desenvolvimento Web I
+#Protótipo Implementado: Desenvolvimento Web I
 ##Este trabalho faz parte da disciplina de Desenvolvimento Web I, ministrada pelo professor Thomaz Maia.
 ##O projeto consistiu na implementação de um protótipo Figma utilizando HTML e CSS, finalizado em 28 de agosto de 2025.
 
